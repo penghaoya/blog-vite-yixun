@@ -107,3 +107,4 @@ docs/.vitepress/cache
 
 # TernJS port file
 .tern-port
+package-lock.json
