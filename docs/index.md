@@ -8,7 +8,7 @@ hero:
   text: "记录学习笔记的博客"
   image:
     src: /logo.jpg
-    alt: 逸轩
+    alt: 逸轩111
   actions:
     - theme: brand
       text: 开始阅读
