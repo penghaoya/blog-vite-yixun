@@ -11,7 +11,7 @@ hero:
     alt: 逸轩111
   actions:
     - theme: brand
-      text: 开始阅读
+      text: 开始学习
       link: /start/
     - theme: alt
       text: 学习圈子
